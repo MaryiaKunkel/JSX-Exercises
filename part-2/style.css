@@ -1,0 +1,9 @@
+.tweet {
+  border: 2px black solid;
+  background-color: azure;
+  width: 300px;
+  margin: 20px;
+  padding: 20ps;
+  text-align: center;
+  display: inline-block;
+}
